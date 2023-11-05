@@ -8,14 +8,19 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
 Read image and convert it to grayscale image.
+
 ### Step2:
 Find the edges in the image using canny detector and display.
+
 ### Step3:
 Detect points that form a line using HoughLinesP.
+
 ### Step4:
 Draw lines on the image.
+
 ### Step5:
 Display the result.
+
 
 ## Program:
 ```Python
